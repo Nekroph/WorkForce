@@ -1,0 +1,2 @@
+- intoxication itself is a reason for animals to consume alcohol - they will intentionally get drunk
+- laboratory animals facing stress may become alcoholic

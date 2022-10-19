@@ -1,0 +1,30 @@
+- pleasure is seldom mentioned as a reason for alcohol use, despite being a primary motivating factor
+- “willpower” & personal choice/freedom
+	- pleasure is a function of willpower and personal choice and connected to rationality and moral responsibility
+- substance/alcohol use becomes a moral issue that comes with negative connotations
+	- goal is to discourage use
+- pleasure
+	- even when pleasure is advertised as a reason for consumption, it is mitigated by moral imperatives, such as admonishments to “enjoy responsibly”
+	- pleasure and rationality are linked (neoliberal freedom?)
+	- that freedom becomes problematic when the priority of pleasure exceeds the responsibility one has as a governed citizen
+- moralizing pleasure
+	- moral
+		- moderation is associated with positive societal outcomes and economic productivity
+		- in the age of the “protestant work ethic”, the moderation of consumption was seen as morally good
+	- not moral
+	- lack of moderation is associated with negative societal outcomes and economic irresponsibility
+	- excessive consumption is morally deplorable and characteristic of savage behaviour and tendencies
+- excessive pleasure as a loss of freedom
+	- having the ability to control ones taste for pleasure in the form of substances signaled an exercise of feel will/moderation
+	- excessive use of substances signalled as a lack of free will/irrational
+	- consumer market terms such as “use”, “abuse”, and “consumption” imply that there is always a choice when it comes to substance use
+		- our society dictates which choice is the **morally correct one**
+- addiction & pleasure
+	- pleasure and addiction are functions of each other (according to the neoliberal model)
+	- the more addicted/dependent one becomes, the less “pleasure” there is, compared to the temporary relief of displeasure (withdrawal symptoms)
+	- at a certain point, does addiction remove the possibility for pleasure?
+	- drug education/awareness materials often call addictive use “compulsive”
+	- users are seen as having no choice, and pleasure is never considered
+- harm reduction strategies
+	- reduce all drug use into a functional category
+	- educate the public

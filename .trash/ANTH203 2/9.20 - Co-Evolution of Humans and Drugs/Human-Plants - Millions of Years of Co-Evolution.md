@@ -1,0 +1,1 @@
+- human ancestors were exposed and adapted to substantial amounts of dietary ethanol approx. 10 million years ago

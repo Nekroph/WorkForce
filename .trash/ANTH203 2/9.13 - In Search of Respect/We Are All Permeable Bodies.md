@@ -1,0 +1,6 @@
+- [[drugs]] are used to lock/unlock aspects of the body-brain-world continuum
+	- drugs can heal and harm at the same time
+- any substance or behaviour could be sued for different purposes and/or create dependency
+- societies have historically regulated the use of substances in different ways
+	- even in non-western communities, ex. only shamans could use substances to get in touch with the spirit world
+	- laws and regulations determine who can get access to what substances

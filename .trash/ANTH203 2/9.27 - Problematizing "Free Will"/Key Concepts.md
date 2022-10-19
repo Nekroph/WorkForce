@@ -1,0 +1,6 @@
+- [[neoliberal subjectivity]] - people who use drugs are expected to “make good, rational, and informed choices”
+	-- otherwise seen as irrational, impossible to treat, etc.
+- [[pleasure]] - to discourage drug use, authorities remove the concept of pleasure as a motivating factor for consumption (think ORT or D.A.R.E. education)
+- [[will]] - use and “abuse” of drugs/alcohol have historically been attributed to “weak will”
+	- addiction was moralized - was made a moral issue - people who are dependent on substances are morally weak (weak will)
+- [[addiction]] - judged and determined by socio-historical factors and social stereotypes

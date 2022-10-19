@@ -1,0 +1,9 @@
+- Keeps body in balance
+	- 4-core components
+	- receptors
+	- ligands
+	- enzymes
+- newly discovered system (1990 while researching THC)
+- long evolutionary history
+- regulates all kinds of body mechanisms
+- role of medicine and big-pharma (not studying it?)

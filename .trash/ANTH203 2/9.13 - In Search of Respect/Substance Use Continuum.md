@@ -1,0 +1,3 @@
+- non use -> experimental use (non problem use) -> recreational use/social use (misuse?) -> regular use (“abuse” stigma) -> dependent (compulsive use)
+	- rehab centres perpetuate the idea that users must go from dependent to non use
+- after prohibition drug use became more dangerous because it was not regulated - drugs could be laced with more dangerous and addictive substances

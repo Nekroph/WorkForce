@@ -1,0 +1,3 @@
+- our brains chemistry and social behaviours allow us to survive, and distortions in neurochemistry result in disrupted outcomes
+- dopamine system - determine everything from motivation to memory, and has a broad affect on brain function
+- drugs tend to interfere with different systems and pathways (remember the endocannabinoid system)

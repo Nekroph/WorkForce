@@ -1,0 +1,13 @@
+- pleasure
+	- role of self/collective-enjoyment in using/experimenting with substances
+	- why is pleasure always outside the equation
+- will
+	- relationship between “the will” (or lack of) and the neoliberal subject formation (and late capitalist subjectivities)
+	- relationship between will and alcohol (ex. AA model)
+- medicalization
+	- continuum/degrees
+	- de/re/over/under - medicalization of alcohol use
+	- where is alcohol use in the medicalization continuum?
+- government involvement affects the substance use continuum
+	- ex. war on drugs, harm reduction strategies, access to health care (rehab/detox and treatment)
+	- alcohol production is heavily regulated by the government

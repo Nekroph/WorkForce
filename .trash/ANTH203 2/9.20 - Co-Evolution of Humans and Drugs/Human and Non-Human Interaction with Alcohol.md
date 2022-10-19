@@ -1,0 +1,4 @@
+- alcohol is a neurotoxin
+- effects on non human animals vary
+- effects increase CNS hyperexcitability
+- animals whose experiences of intoxication are most similar to humans are social animals

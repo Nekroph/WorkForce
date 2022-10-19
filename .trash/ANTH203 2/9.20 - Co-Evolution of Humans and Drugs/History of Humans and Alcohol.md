@@ -1,0 +1,4 @@
+- record of alcohol consumption for hundreds of thousands (is not millions) of years
+- found in all areas of the world
+- egypt: beer and wine from grapes, figs, pomegranates, and dates
+- became central enough in egyptian culture that beer and wine had their of goddesses

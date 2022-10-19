@@ -1,0 +1,1 @@
+For absence management, two time off banks are included with structured accrual rules attached.  While they are named “Vacation” and “Sick” by default, customers can choose what they are called, such as “PTO”. 

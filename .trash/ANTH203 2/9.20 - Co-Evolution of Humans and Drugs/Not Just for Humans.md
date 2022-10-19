@@ -1,0 +1,4 @@
+- in non-humans animals, the susceptibility to intoxication is not seen as something that can be controlled colutuinally
+- animals cannot pace their alcohol intake in the way humans can - except, apparently, for raccoons (p. 107)
+- in the wild, “animals usually consume foods for their smells, tastes, calories, or nutrients they provide” (p. 117) and intoxication is usually a side-effect as opposed to a goal
+- animals, birds, and insects have been observed to enjoy alcohol, both in the wild and in experimental settings

@@ -1,0 +1,1 @@
+There is also a standard payroll export that can be mapped to a customer’s own earnings codes.

@@ -1,0 +1,7 @@
+- many players in the process
+	- government, health processionals, family, pharmaceuticals, social groups, users, etc.
+- medicalization - “the process in which conditions and behaviour are labeled and treated as medical issues”
+	- degrees of medicalization
+		- some processes are fully medicalized (childbirth, cancer, death, mental illness, Alzheimers, etc.)
+		- some processes are partially medicalized (menopause, alcohol dependence, eating disorders, Alzheimers, etc.)
+		- some processes are minimally medicalized (recreational drug use, eating disorders, mental illness, stress, sleep, etc.)

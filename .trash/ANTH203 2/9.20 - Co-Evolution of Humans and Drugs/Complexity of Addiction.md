@@ -1,0 +1,3 @@
+- more complex than what is commonly observed in laboratory settings
+- in more sases, PWUD seek drugs, and are therefore never passive victims
+- addiction is not the drug itself, but also how a person chooses to use it

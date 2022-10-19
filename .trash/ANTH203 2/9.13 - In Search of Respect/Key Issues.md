@@ -1,0 +1,15 @@
+- more than 100 years of prohibition
+	- made things worse
+	- war on drugs (epic fail)
+- drugs are inserted into micro-macro contexts
+	- political-economy of drugs
+	- brain-body-world continuum
+- substance use continuum
+	- from non-use to compulsive use
+- humanity has used substances for a myriad of reasons
+	- spiritual
+	- medicinal/rehab/healing
+	- recreational
+	- religious
+	- self exploration
+	- trauma/coping

@@ -1,0 +1,2 @@
+- humans have used drugs for a variety of purposes across time and space
+- as technologies for the production of substances have advanced, so had the strength and potency of drugs, and the intensification of addictive properties

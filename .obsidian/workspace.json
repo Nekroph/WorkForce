@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "28057c0cf07b81ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "c146e89f922a2dcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c632d7f23babbf6b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f74f35d64442c5f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "37dec8d7ce2918a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7f5a705e4d31bc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "3bf4d2c89af463a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7acd708147b03c01",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.50852584838867
+  },
+  "right": {
+    "id": "6646be0e040f0879",
+    "type": "split",
+    "children": [
+      {
+        "id": "393139f88655ac65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47dc07c455fecf11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "99f51a5d492175b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c2799e8a9e9578e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "faf766ffa483b131",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "c632d7f23babbf6b",
+  "lastOpenFiles": [
+    "College/Intermediate Algebra/7.4 Adding and Subtracting Rational Expressions.md",
+    "College/Untitled.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Functional Areas.md",
+    "Schedules.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Assembly.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Policy Profiles.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Base Product.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Implementation.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Product.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base.md"
+  ]
+}

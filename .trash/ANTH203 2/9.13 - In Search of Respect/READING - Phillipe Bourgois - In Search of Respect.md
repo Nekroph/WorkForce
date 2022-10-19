@@ -1,0 +1,27 @@
+- ethnography about living with, using, and selling drugs from the bottom-up
+- post-industrial USA (neo-cons, destructions of welfare, trickle-down economics, cutting social programs)
+- underground economy drug landscape
+- larger context of structural violence, social deprivation, and social abandonment
+- 1970s - 90s - context of Phillipe Bourgois’ writing
+	- micro and macro processes are interlinked and influence each other
+	- macro - things happening outside the US influenced the US
+		- wars and coup d’etats 
+		- economic neoliberalism, Reaganomics, IMF, WB, structural adjustment
+		- DEA, CIA, Contras in Nicaragua, drug cartels
+		- Drugs flooded in (heroin from Afghanistan, cocaine from Colombia etc.)
+	- micro
+		- prohibition/regulation (The Controlled Substances Act [USA] for illicit drugs + FDA for licit drugs; Controlled Drugs and Substances Act [Canada])
+		- racialization/ghettoization of “war on drugs”
+		- differential policing, sentencing, and jailing (Prison Industrial Complex, PIC)
+		- destruction of the welfare system and social programs
+	- the 1970s was the peak of the post-welfare state and carceral state (PIC) and the lowest point of the welfare state and social programs
+		- PIC is profitable
+	- underground economy
+		- gang violence is fueled by substance use
+		- the opioid epidemic started from pharmaceutical use
+	- search for dignity and autonomy
+	- Bourgois had to overcome the “fear…of succumbing to a pornography of violence that reinforces popular stereotypes” (15)
+- What were/are the Rockefeller drug laws (passed in the 1970s)? How do they affect people today?
+- What was the effect of the effect of the War On Drugs on BIPOC individuals?
+	- crack is a “black problem”
+	- prison population dominated by black and lantinx peoples

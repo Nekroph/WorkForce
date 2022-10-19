@@ -1,0 +1,1 @@
+It enables a customer to select options offered and rapidly deploy them. 

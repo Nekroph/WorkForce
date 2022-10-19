@@ -1,0 +1,2 @@
+- search for intoxication was termed “intemperance” 
+- intemperance was thought to be a uniquely human experience

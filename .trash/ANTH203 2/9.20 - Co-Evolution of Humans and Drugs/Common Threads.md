@@ -1,0 +1,2 @@
+- in rats and elephants in experimental settings it is observed that higher levels of **stress** -> higher alcohol consumption (Bruce Alexander’s “rat lab experiment”)
+- suggests that intoxication is a form of **escapism** for animals - similar to humans
