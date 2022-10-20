@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "47dc07c455fecf11",
+  "active": "faf766ffa483b131",
   "lastOpenFiles": [
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Employee Management.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/In Out Time Entry.md",
