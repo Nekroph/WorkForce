@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Elapsed Hours Entry.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,13 +86,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Elapsed Hours Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Elapsed Hours Entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md"
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Elapsed Hours Entry.md"
               }
             }
           }
@@ -133,23 +134,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ff07d49893b12b50",
+  "active": "47dc07c455fecf11",
   "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Employee Management.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/In Out Time Entry.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Shopped Market.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Shared Policies.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/MFD Only.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Absence Management.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Implementation.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/In Out Time Entry.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Payroll Export.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Holidays.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/End of Period.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Functional Areas.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Market Framework.md"
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Payroll Export.md"
   ]
 }
