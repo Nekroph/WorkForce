@@ -1,0 +1,1 @@
+Uses a combination of [[Market-Specific Templates|Market-Specific]] and [[Generic Templates]].

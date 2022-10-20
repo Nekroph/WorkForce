@@ -1,0 +1,1 @@
+Functionality that can be specified but does not currently have a configuration template. When a client selects "MFD-only" functionality, the **Model Functional Description** (MFD) will supply the functionality details. Unlike customized configuration, an MFD exists to outline the functionality that must be developed.

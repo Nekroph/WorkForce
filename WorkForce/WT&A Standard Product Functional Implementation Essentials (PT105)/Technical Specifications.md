@@ -1,0 +1,1 @@
+Accompanies a template to provide steps to integrate.
