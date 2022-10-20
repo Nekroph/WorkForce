@@ -1,3 +1,0 @@
-By default, WBP reclassifies all worked time that has not been affected by other pay rules (whether compliance calculations, holiday rules, or other standard calculations) to Regular, which is presented on the Results tab. 
-
-An organization can apply additional rules to meet their business needs through additional models. If a pay rate is not sent, the system defaults the value to zero.  If there is a value, it will automatically calculate the pay amounts and for export at the end of the timesheet period. 

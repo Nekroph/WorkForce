@@ -1,1 +1,0 @@
-There is a Standard approval process for timesheets and a standard set of email reminders. 

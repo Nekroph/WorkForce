@@ -1,1 +1,0 @@
-There is also standard end of period behavior including amended timesheet processing and off-cycle processing.  We have broad inclusiveness of all the features of Time and Attendance.     
