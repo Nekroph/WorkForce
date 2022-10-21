@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Quickly Set Up Defined Market.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Untitled.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup a Non-US Instance.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Untitled.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup a Non-US Instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Untitled.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup a Non-US Instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Untitled.md"
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup a Non-US Instance.md"
               }
             }
           }
@@ -190,15 +190,15 @@
   },
   "active": "c91f9ed5551b40ef",
   "lastOpenFiles": [
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Quickly Set Up Defined Market.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setting Up A US Market Instance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup A US Market Instance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup a Non-US Instance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Activity Tracking Template.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Template.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Product.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/US and Non-Quick Setup.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Building.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Policy Profiles.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md"
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Building.md"
   ]
 }
