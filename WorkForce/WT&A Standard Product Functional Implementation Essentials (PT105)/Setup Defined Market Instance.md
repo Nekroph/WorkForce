@@ -45,10 +45,18 @@ Submit a ticket with the request in the [Partner Community](https://workforcesof
 
 For more information on reloading the Global Base Dataset, visit the [WorkForce Knowledge Base](https://workforcesoftware.force.com/customers/s/article/How-to-Load-the-Latest-Global-Base-Dataset-in-Tenant-Manager ).
 
-### Step 4: Load the [[Generic Container]]
+### Step 5: Load the [[Global Base Template]]
 
-After you've loaded the [[Global Base]], you may put the Generic [[Market]] layer on top of it. While selecting the choices specified by the client in the MARKET - Customer Product Setup Questionnaire, follow the directions in the GEN_CONTAINER Template Instructions. 
+You're ready to start configuring now that you're comfortable with the general procedure. Load the following layer, the [[Global Base Template]], with the basic [[Global Base dataset]] required to generate the *DEV instance. To finish this step, go to the GLOBAL BASE Template Instructions manual. 
 
-The Generic Container template has additional functional regulations associated with the given attributes and may be used to any geographic location, country, market, and so on. To allow nation or market-specific functionality, additional country or market-specific Standard Products may be imported on top of the Generic Container. 
+The [[Global Base Template]] provides the rules necessary for all models in the [[Standard Product]] and must be imported into every Standard Product implementation. 
 
-A Time & Attendance environment can be made up of many Generic Containers, each with its own set of features. As a result, one environment may support the usage of many nations, marketplaces, and so on.
+Consultants should discuss which environment to work in with their Project Manager or Configuration Lead.
+
+### Step 6: Load the [[Generic Container]]
+
+After you've loaded the [[Global Base]], you may put the Generic [[Market]] layer on top of it. While selecting the choices specified by the client in the ***MARKET* - Customer Product Setup Questionnaire**, follow the directions in the **GEN_CONTAINER Template Instructions**. 
+
+The [[Generic Container]] template has additional functional regulations associated with the given attributes and may be used to any geographic location, country, market, and so on. To allow nation or market-specific functionality, additional country or market-specific [[Standard Product|Standard Products]] may be imported on top of the [[Generic Container]]. 
+
+A Time & Attendance environment can be made up of many [[Generic Container|Generic Containers]], each with its own set of features. As a result, one environment may support the usage of many nations, marketplaces, and so on.
