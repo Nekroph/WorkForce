@@ -45,3 +45,15 @@ Consultants should discuss which environment to work in with their Project Manag
 After you've loaded the [[Global Base]], you may put the US [[Market]] layer on top of it. While filling out the **Client US Product Setup Questionnaire**, use the **STANDARD_PRODUCT Template Instructions** to choose the choices specified by the customer.
 
 After the [[Standard Product]] Template has been imported, Follow the **US_WAGE_HOUR_AND_HOL template Instructions** to implement US wage rules.
+
+The [[Standard Product]] template contains much of the functional policies involved with the defined features. The US Wage, Hour and Holiday [[template]] will include a series of templates making up the US Product. Each template is presented in series. You can navigate among them through the drop-down on the upper-right. On the panel for the last template in the series, clicking the button “Import” causes all the templates to be imported using the parameter selections that have been made.
+
+### Step 6: Add Demo Data
+
+You may build up demonstration data for the customer to interact with the environment once the [[Policy Profiles]] have been established using the **Customer US Product Setup Questionnaire** choices. 
+
+To finish this stage, refer to the **WT&A US Base Product Creating Environment with Data** document. The sample data files are connected to the PDF page. It should be noted that some PDF readers may struggle to view these files. 
+
+Customer sample data may also be imported as an alternative.
+
+### Step 7: Validate the Setup
