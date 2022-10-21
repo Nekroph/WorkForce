@@ -36,3 +36,19 @@ The [[Standard Product]] cannot be created without the questionnaire.
 Before you begin configuring, go through the *MARKET* **Product Assembly Instructions**, which walk you through the build process of the [[defined market]]. These instructions are similar to Template Instructions in that they include context as well as technical specifics for each build step. 
 
 The procedures in this course cover essential processes in the Product Assembly Instructions as well as delivery guidelines for a specific market.
+
+### Step 4: Reload the [[Global Base Dataset]]
+
+The [[Global Base Dataset]] serves as the starting point for all configurations. When WorkForce Cloud Services creates an environment, it comes pre-loaded with this foundation dataset. Nonetheless, as your initial configuration step, you will reload this. This is in case there is a delay between the establishment of the environment and the start of the setup. 
+
+Submit a ticket with the request in the [Partner Community](https://workforcesoftware.force.com/customers) to acquire access to the customer's environments.
+
+For more information on reloading the Global Base Dataset, visit the [WorkForce Knowledge Base](https://workforcesoftware.force.com/customers/s/article/How-to-Load-the-Latest-Global-Base-Dataset-in-Tenant-Manager ).
+
+### Step 4: Load the [[Generic Container]]
+
+After you've loaded the [[Global Base]], you may put the Generic [[Market]] layer on top of it. While selecting the choices specified by the client in the MARKET - Customer Product Setup Questionnaire, follow the directions in the GEN_CONTAINER Template Instructions. 
+
+The Generic Container template has additional functional regulations associated with the given attributes and may be used to any geographic location, country, market, and so on. To allow nation or market-specific functionality, additional country or market-specific Standard Products may be imported on top of the Generic Container. 
+
+A Time & Attendance environment can be made up of many Generic Containers, each with its own set of features. As a result, one environment may support the usage of many nations, marketplaces, and so on.
