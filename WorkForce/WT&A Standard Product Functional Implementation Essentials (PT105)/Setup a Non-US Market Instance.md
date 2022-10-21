@@ -1,28 +1,30 @@
+This procedure is identical to the guidelines for the [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup A US Market Instance|US Market]] instructions, except you will not need the US Wage, Hour, and Holiday [[template]]. You may also use this procedure to create a simple US Market]] without the rules. 
+
+The Document Directory contains links to all of the documentation mentioned.
+
 ### Step 1: Environments Created
 
-Each customer must complete this step once. *WorkForce Cloud Services creates DEV, TEST, PROD, and any other appropriate environments upon execution of a SaaS agreement. To learn more about the progress of this first stage, project teams can file a ticket. 
+*WorkForce Cloud Services creates DEV, TEST, PROD, and any other appropriate environments upon execution of a SaaS agreement. To check on the status of this initial stage, project teams can file a ticket. 
 
-Log in to the Partner Community at https://workforcesoftware.force.com/customers to file a ticket. 
-The most recent [[Global Base Dataset]] is used to begin the construction. Even so, in case there is a release between creating the environment and starting the configuration, you will reload this in the step that follows. 
+Log in to the [Partner Community](https://workforcesoftware.force.com/customers) to file a ticket. 
 
-When deciding which environment to work in, consultants should consult their project manager or configuration lead.
+The construction begins with the most recent [[Global Base Dataset]]. Even yet, if there is a delay between environment formation and configuration start, you will reload this in a subsequent stage. 
+*Consultants should discuss which environment to work in with their Project Manager or Configuration Lead.*
 
 ### Step 2: Gather Documentation
 
 Make sure you have the following documentation available before starting configuration: 
 
 
-1. **Customer US Product Setup Questionnaire**
-2. **GLOBAL_BASE Template Instructions**
+1. **Customer Standard Product Setup Questionnaire**
+2. **GLOBAL_BASE Template Instructions** 
 3. **STANDARD_PRODUCT Template Instructions**
-4. **US_WAGE_HOUR_AND_HOL Template Instructions**
-5. **WT&A US Base Product Creating Environment with Data**
-6. **WT&A Base Product Demonstration Guide**
-7. **(Optional) Additional Policy Profile Questionnaires**
+4. **WT&A US Base Product Creating Environment with** Data
+5. **WT&A Base Product Demonstration Guide**
 
-The client filling out the setup questionnaire is one of the initial steps in the implementation process. This might even be finished before the sales cycle. 
+The client answering the setup questionnaire is one of the initial steps in the implementation process. This might happen as early as the sales cycle. 
 
-The setup of the US [[Standard Product]] is not possible without the questionnaire.
+The [[Standard Product]] cannot be created without the questionnaire.
 
 ### Step 3: Reload the [[Global Base Dataset]]
 
@@ -34,19 +36,17 @@ For more information on reloading the Global Base Dataset, visit the [WorkForce 
 
 ### Step 4: Load the [[Global Base Template]]
 
-This step is only done once per customer. Load the following layer, the [[Global Base Template]], with the basic [[Global Base Dataset]] required to generate the *DEV instance. To finish this step, go to the **GLOBAL_BASE Template Instructions** manual. 
+This step is only done once per customer. Load the following layer, the [[Global Base Template]], with the basic [[Global Base Dataset]] required to generate the *DEV instance. To finish this step, go to the **GLOBAL BASE Template Instructions** manual. 
 
 The [[Global Base Template]] provides the rules necessary for all models in the [[Standard Product]] and must be imported into every [[Standard Product]] implementation. 
 
 *Consultants should discuss which environment to work in with their Project Manager or Configuration Lead.
 
-### Step 5: Load the US [[Market]]
+### Step 5: Load the Standard Base
 
-After you've loaded the [[Global Base]], you may put the US [[Market]] layer on top of it. While filling out the **Client US Product Setup Questionnaire**, use the **STANDARD_PRODUCT Template Instructions** to choose the choices specified by the customer.
+After you've loaded the [[Global Base]], you may put the [[Standard Base Product]] Market layer on top of it. Follow the steps in the **STANDARD_PRODUCT Template Instructions** while picking the choices from the Customer **Standard Product Setup Questionnaire**. 
 
-After the [[Standard Product]] Template has been imported, Follow the **US_WAGE_HOUR_AND_HOL template Instructions** to implement US wage rules.
-
-The [[Standard Product]] template contains much of the functional policies involved with the defined features. The US Wage, Hour and Holiday [[template]] will include a series of templates making up the US Product. Each template is presented in series. You can navigate among them through the drop-down on the upper-right. On the panel for the last template in the series, clicking the button “Import” causes all the templates to be imported using the parameter selections that have been made.
+Much of the functional policies associated with the described features are included in the [[Standard Product[[]] template. It is made up of three templates, each with its own import window. Only the first template, STANDARD_PRODUCT, must be explicitly imported; all subsequent templates will import automatically after the first.
 
 ### Step 6: Add Demo Data
 
