@@ -27,8 +27,9 @@ Make sure you have the following documentation available before starting configu
 4. **GEN_CONTAINER Template Instructions**
 5. **Model-Template Mapping**
 
-The client answering the setup questionnaire is one of the initial steps in the implementation process. This might happen as early as the sales cycle. 
+Each designated [[Market]] will have its own questionnaire and assembly instructions.The client answering the setup questionnaire is one of the initial steps in the implementation process. This might happen as early as the sales cycle. 
 
 The [[Standard Product]] cannot be created without the questionnaire.
 
+### Step 3: Review the Product Assembly Instructions
 
