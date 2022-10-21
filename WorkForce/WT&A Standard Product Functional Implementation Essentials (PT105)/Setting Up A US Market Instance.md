@@ -57,3 +57,24 @@ To finish this stage, refer to the **WT&A US Base Product Creating Environment w
 Customer sample data may also be imported as an alternative.
 
 ### Step 7: Validate the Setup
+
+Check that the setup is performing as requested in the **Customer Standard Product Setup Questionnaire** using [testing best practices](https://workforcesoftware.force.com/customers/s/article/Configuration-Testing-Best-Practices). 
+
+Customers will follow the **WT&A Base Product Demonstration Guide** to use the sample data if it is loaded. MFDs and customer choices are otherwise used to refer to capabilities for evaluation.
+
+### Step 8: Deploy Setup to the Customer
+
+After validation, transmit the setup and demo data (if applicable) to the customer's staging, training, or testing environment. This might be the instanced *TEST. 
+
+In Tenant Manager, do a full dump and load into the destination environment.
+
+Visit the [WorkForce Knowledge Base](https://workforcesoftware.force.com/customers/s/article/Dump-and-Load-Data-in-Tenant-Manager) for additional information on dumping and loading data in Tenant Manager. 
+*Consultants should discuss which environment to work in with their Project Manager or Configuration Lead.
+
+### Step 9: Clear the Demo Data
+
+When the customer is ready to load their own sample data into their environment, you must clear the demo data that has already been imported. If you utilized customer-specific data that the client wants to keep or if you did not load the demo data, skip this step. 
+
+In the permitted environments, use the Truncate script to remove the demo data while retaining all setup. 
+
+Visit the [WorkForce Knowledge Base](https://workforcesoftware.force.com/customers/s/article/Data-Clean-Up-via-Truncate-Script-for-Partners) for additional details on utilizing the Truncate Script.
