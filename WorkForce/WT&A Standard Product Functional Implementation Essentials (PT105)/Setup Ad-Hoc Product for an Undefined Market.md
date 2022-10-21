@@ -25,6 +25,36 @@ Ensure you have the following documentation available and ready:
 5. **GEN_CONTAINER Template Instructions**
 6. **Model-Template Mapping**
 
-The [[Ad-Hoc Product]], unlike the [[Defined Market|Defined Markets]], does not have a standard questionnaire. Customers shop the models by making the selections specified in the Ad-Hoc Selection of Models for WT&A document. It is critical that you have a complete list of shopped models for the consumer. 
+The [[Ad-Hoc Product]], unlike the [[Defined Market|Defined Markets]], does not have a standard questionnaire. Customers shop the models by making the selections specified in the Ad-Hoc Selection of [[Model|Models]] for WT&A document. It is critical that you have a complete list of shopped models for the consumer. 
 
 You must also use the Options sections of the MFDs that the client has chosen, which is a variable list for each implementation. Based on their model decisions, they would have to aggregate the alternatives to specify.
+
+### Step 3: Review the Product Assembly Instructions
+
+Before beginning the setup, go over the [[Standard Product]] Assembly Instructions for [[Ad-Hoc Product]], which walks you through each step of adding a sequence of templates to an environment. These instructions are similar to Template Instructions in that they include context as well as technical specifics for each build step. 
+
+The procedures in this course cover essential processes in the Product Assembly Instructions as well as delivery guidelines for a specific [[market]].
+
+### Step 4: Reload the [[Global Base Dataset]]
+
+The [[Global Base Dataset]] serves as the starting point for all configurations. When WorkForce Cloud Services creates an environment, it comes pre-loaded with this foundation dataset. Nonetheless, as your initial configuration step, you will reload this. This is in case there is a delay between the establishment of the environment and the start of the setup. 
+
+Submit a ticket with the request in the [Partner Community](https://workforcesoftware.force.com/customers) to acquire access to the customer's environments.
+
+For more information on reloading the Global Base Dataset, visit the [WorkForce Knowledge Base](https://workforcesoftware.force.com/customers/s/article/How-to-Load-the-Latest-Global-Base-Dataset-in-Tenant-Manager ).
+
+### Step 5: Load the [[Global Base Template]]
+
+You're ready to start configuring now that you're comfortable with the general procedure. Load the following layer, the [[Global Base Template]], with the basic [[Global Base dataset]] required to generate the *DEV* instance. To finish this step, go to the **GLOBAL_BASE Template Instructions** manual. 
+
+The [[Global Base Template]] provides the rules necessary for all models in the [[Standard Product]] and must be imported into every [[Standard Product]] implementation. 
+
+*Consultants should discuss which environment to work in with their Project Manager or Configuration Lead.*
+
+### Step 6: Load the [[Generic Container]]
+
+After you've loaded the [[Global Base]], you may put the [[Generic Market]] layer on top of it. While selecting the choices specified by the client in the Ad-Hoc Selection of Models for WT&A document, follow the directions in the GEN CONTAINER Template Instructions. 
+
+The [[Generic Container]] template has additional functional regulations associated with the given attributes and may be used to any geographic location, country, market, and so on. To allow nation or market-specific functionality, additional country or market-specific [[Standard Product|Standard Products]] may be imported on top of the [[Generic Container]].
+
+A Time & Attendance environment can be made up of many [[Generic Container|Generic Containers]], each with its own set of features. As a result, one environment may support the usage of many nations, marketplaces, and so on.

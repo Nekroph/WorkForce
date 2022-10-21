@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md"
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md"
               }
             }
           }
@@ -142,15 +142,15 @@
   },
   "active": "d9ff0eddbba1255e",
   "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Schedule Management.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/US and Non-Quick Setup.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base.md",
     "Ad-Hoc Product.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Undefined Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Non-Defined Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Non-US Market Instance.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup US Market Instance.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Shared Policies.md"
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup US Market Instance.md"
   ]
 }
