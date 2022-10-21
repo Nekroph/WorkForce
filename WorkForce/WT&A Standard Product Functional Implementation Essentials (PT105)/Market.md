@@ -8,4 +8,12 @@ May include:
 
 ### [[Shopped Market]]
 
-### [[market
+### [[Setup Ad-Hoc Product for an Undefined Market]]
+
+### [[Setup Defined Market Instance]]
+
+### [[Setup Non-US Market Instance]]
+
+### [[Setup US Market Instance]]
+
+
