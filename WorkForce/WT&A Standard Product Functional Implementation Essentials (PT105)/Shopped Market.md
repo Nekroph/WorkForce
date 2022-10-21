@@ -1,1 +1,1 @@
-The business rules of a client have been matched to models in the [[Standard Product]].
+The business rules of a client have been matched to [[Model|models]] in the [[Standard Product]].

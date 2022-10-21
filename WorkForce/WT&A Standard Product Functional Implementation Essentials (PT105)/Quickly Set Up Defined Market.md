@@ -1,0 +1,1 @@
+These [[Market|Markets]] are quickly set up because they have the [[Standard Product]] Templates. If the customer has multiple businesses within the US that vary on [[Policy Profiles]], you can import the [[Standard Product]] Templates multilpe times to build each of those together.

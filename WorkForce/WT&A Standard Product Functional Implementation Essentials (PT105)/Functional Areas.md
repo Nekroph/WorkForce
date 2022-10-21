@@ -6,7 +6,7 @@ Each functional area addresses an area of business functionality in the [[Standa
 
 ### [[Worked Time Collection]]
 
-### [[Activity Tracking]]
+### [[Activity Tracking Template]]
 
 ### [[Absence Management]]
 

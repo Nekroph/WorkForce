@@ -1,1 +1,1 @@
-Accompanies a template to provide steps to integrate.
+Accompanies a [[Template|template]] to provide steps to integrate.

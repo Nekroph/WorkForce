@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "3fa8d1d54e4b8e43",
+    "type": "split",
+    "children": [
+      {
+        "id": "5071d3c7b0fcd1ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69c9a4b210feeabe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Build Tool Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1ad668df8ed4ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "159e8dea8b9664c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "025e66278ba2ccd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba797da73e164676",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c0d5178b665a4882",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05d24ad7ffa05228",
+    "type": "split",
+    "children": [
+      {
+        "id": "83c466b9e75ac024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21204219500cb6a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Build Tool Types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f3484267505d39f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Build Tool Types.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d75b6c1c37741e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "05d1801bf177433c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Build Tool Types.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ba797da73e164676",
+  "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Extensions.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Build Tool Types.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Approval Process.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Activity Tracking Template.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Absence Management.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Model.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Product.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/US and Non-Quick Setup.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Base Product.md"
+  ]
+}

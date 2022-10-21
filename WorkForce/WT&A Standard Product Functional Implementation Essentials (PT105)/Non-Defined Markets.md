@@ -1,1 +1,0 @@
-Uses [[Generic Templates]]. The [[Market-Specific Templates]] may also be used, depending on the template fits the needed functionality.

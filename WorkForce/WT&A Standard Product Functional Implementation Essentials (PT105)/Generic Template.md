@@ -1,0 +1,1 @@
+Has functionality built to accomplish functionality in a universal way such as [[Activity Tracking Template|Activity Tracking Templates]].

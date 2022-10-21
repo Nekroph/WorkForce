@@ -1,1 +1,0 @@
-Includes one activity tracking field for the purpose of collecting activity data and worked time data.

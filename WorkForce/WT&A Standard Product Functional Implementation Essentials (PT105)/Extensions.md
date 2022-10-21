@@ -1,1 +1,1 @@
-Another term for [[Models]].
+Another term for [[Model]].

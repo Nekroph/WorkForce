@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06b5ee5db354f24f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Calculations.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Calculations.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Calculations.md"
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base Template.md"
               }
             }
           }
@@ -139,8 +152,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ff07d49893b12b50",
+  "active": "06b5ee5db354f24f",
   "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Calculations.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Compliance.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Shared Policies.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Shopped Market.md",
@@ -149,7 +163,6 @@
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Employee Management.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/In Out Time Entry.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/MFD Only.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Absence Management.md"
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md"
   ]
 }
