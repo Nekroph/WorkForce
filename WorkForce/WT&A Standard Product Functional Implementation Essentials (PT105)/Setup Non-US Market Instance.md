@@ -19,7 +19,7 @@ Make sure you have the following documentation available before starting configu
 1. **Customer Standard Product Setup Questionnaire**
 2. **GLOBAL_BASE Template Instructions** 
 3. **STANDARD_PRODUCT Template Instructions**
-4. **WT&A US Base Product Creating Environment with** Data
+4. **WT&A US Base Product Creating Environment with Data**
 5. **WT&A Base Product Demonstration Guide**
 
 The client answering the setup questionnaire is one of the initial steps in the implementation process. This might happen as early as the sales cycle. 
