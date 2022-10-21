@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Base Product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d82397de0d86716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md"
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md"
               }
             }
           }
@@ -188,17 +200,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c91f9ed5551b40ef",
+  "active": "6d82397de0d86716",
   "lastOpenFiles": [
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/US and Non-Quick Setup.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Building.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Build Tool Types.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup a Non-US Market Instance.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup A US Market Instance.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup US Market Instance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Activity Tracking Template.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Template.md"
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Non-US Market Instance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Schedule Management.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Base Product.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Policy Profiles.md"
   ]
 }
