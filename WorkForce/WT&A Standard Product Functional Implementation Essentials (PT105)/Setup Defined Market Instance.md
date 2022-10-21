@@ -20,7 +20,6 @@ The construction begins with the most recent [[Global Base Dataset]]. Even yet, 
 
 Make sure you have the following documentation available before starting configuration: 
 
-
 1. ***MARKET* - Customer Product Setup Questionnaire**
 2. ***MARKET* Product Assembly Instructions**
 3. **GLOBAL_BASE Template Instructions** 

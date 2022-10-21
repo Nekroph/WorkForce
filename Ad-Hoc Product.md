@@ -1,0 +1,1 @@
+Does not have a standard questionnaire. Customers shop the models by making the selections specified in the Ad-Hoc Selection of Models for WT&A document. It is critical that you have a complete list of shopped models for the consumer. 
