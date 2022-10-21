@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "58a93ef49879155e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b94980e5c4cae179",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21fcb38dbbd58f13",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b8d8fc63c95c6f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ea44692f9f7d489",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "479de8a1e56a43c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6588e03dc24e1c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "664a70ee58861786",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fa829eef73bb96d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f6f37c672a796af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3969502da8df7f29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee8983eba144ceb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c41bd8f2fa86f38b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2297385e20657ae9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "21fcb38dbbd58f13",
+  "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Non-US Market Instance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Building.md"
+  ]
+}
