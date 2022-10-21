@@ -65,4 +65,10 @@ A Time & Attendance environment can be made up of many [[Generic Container|Gener
 
 The [[Generic Container]] does not have all of the functional rules required to set up a specified [[Market]]. To finish the functional sections, continue following the Steps to Integrate portion of the MARKET - **Product Assembly Instructions**. 
 
-These instructions link to particular templates to utilize and specify market-specific remarks. Review the **Model-Template Comparison** document to match the MFD with the template you are integrating into the selected Market for further functional details on the models represented by the templates.
+These instructions link to particular [[template|templates]] to utilize and specify market-specific remarks. Review the **Model-Template Comparison** document to match the MFD with the template you are integrating into the selected [[Market]] for further functional details on the models represented by the [[template|templates]].
+
+### Step 8: Handling Demo Data
+
+The demo data in the **WT&A US Base Product Creating Environment with Data** paper is not tailored to other [[market|markets]]. It may be used to generate demo data as a starting point, or the customer can contribute their own sample data.
+
+### Step 9: Validate the Setup
