@@ -42,4 +42,6 @@ Consultants should discuss which environment to work in with their Project Manag
 
 ### Step 5: Load the US [[Market]]
 
-After you've loaded the [[Global Base]], you may put the US [[Market]] layer on top of it. While filling out the Client US Product Setup Questionnaire, use the STANDARD PRODUCT [[Template Instructions to choose the choices specified by the customer.
+After you've loaded the [[Global Base]], you may put the US [[Market]] layer on top of it. While filling out the **Client US Product Setup Questionnaire**, use the **STANDARD_PRODUCT Template Instructions** to choose the choices specified by the customer.
+
+After the [[Standard Product]] Template has been imported, Follow the **US_WAGE_HOUR_AND_HOL template Instructions** to implement US wage rules.
