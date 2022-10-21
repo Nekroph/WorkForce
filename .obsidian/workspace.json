@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Ad-Ho",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,11 +141,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "faf766ffa483b131",
+  "active": "3bf4d2c89af463a0",
   "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Non-US Market Instance.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup US Market Instance.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Non-US Market Instance.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Shared Policies.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md",
