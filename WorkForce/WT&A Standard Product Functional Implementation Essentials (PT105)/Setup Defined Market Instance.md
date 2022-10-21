@@ -21,11 +21,11 @@ The construction begins with the most recent [[Global Base Dataset]]. Even yet, 
 Make sure you have the following documentation available before starting configuration: 
 
 
-1. **MARKET - Customer Product Setup Questionnaire**
-2. **MARKET Product Assembly Instructions**
+1. ***MARKET* - Customer Product Setup Questionnaire**
+2. ***MARKET* Product Assembly Instructions**
 3. **GLOBAL_BASE Template Instructions** 
-4. **WT&A US Base Product Creating Environment with Data**
-5. **WT&A Base Product Demonstration Guide**
+4. **GEN_CONTAINER Template Instructions**
+5. **Model-Template Mapping**
 
 The client answering the setup questionnaire is one of the initial steps in the implementation process. This might happen as early as the sales cycle. 
 
