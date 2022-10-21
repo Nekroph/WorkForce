@@ -33,3 +33,6 @@ The [[Standard Product]] cannot be created without the questionnaire.
 
 ### Step 3: Review the Product Assembly Instructions
 
+Before you begin configuring, go through the *MARKET* **Product Assembly Instructions**, which walk you through the build process of the [[defined market]]. These instructions are similar to Template Instructions in that they include context as well as technical specifics for each build step. 
+
+The procedures in this course cover essential processes in the Product Assembly Instructions as well as delivery guidelines for a specific market.
