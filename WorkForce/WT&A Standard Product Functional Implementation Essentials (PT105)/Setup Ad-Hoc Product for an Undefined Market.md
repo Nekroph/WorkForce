@@ -58,3 +58,35 @@ After you've loaded the [[Global Base]], you may put the [[Generic Market]] laye
 The [[Generic Container]] template has additional functional regulations associated with the given attributes and may be used to any geographic location, country, market, and so on. To allow nation or market-specific functionality, additional country or market-specific [[Standard Product|Standard Products]] may be imported on top of the [[Generic Container]].
 
 A Time & Attendance environment can be made up of many [[Generic Container|Generic Containers]], each with its own set of features. As a result, one environment may support the usage of many nations, marketplaces, and so on.
+
+### Step 7: Integrate Remaining Functionality
+
+The [[Generic Container]] does not have all of the functional rules required to set up a specified [[Market]]. To finish the functional regions, continue with the Steps to Integrate portion of the [[Standard Product]] Assembly Instructions for [[Ad-Hoc Product]]. 
+
+These instructions link to particular templates to utilize and specify market-specific remarks. Review the Model-Template Comparison document to match the MFD with the template you are integrating into the selected [[Market]] for further functional details on the models represented by the [[template|templates]].
+
+### Step 8: Handling Demo Data
+
+The demo data in the **WT&A US Base Product Creating Environment with Data** paper is not tailored to other markets. It may be used to generate demo data as a starting point, or the customer can contribute their own sample data.
+
+### Step 9: Validate the Setup
+
+Check that the configuration is operating as asked in the *MARKET* - **Customer Product Setup Questionnaire** using the **WT&A Base Product Demonstration Guide**.
+
+### Step 10: Deploy Setup to the Customer
+
+After validation, transmit the setup and demo data (if applicable) to the customer's staging, training, or testing environment. This might be the instanced *TEST. 
+
+In [[Tenant Manager]], do a full dump and load into the destination environment. 
+
+Visit the [WorkForce Knowledge Base](https://workforcesoftware.force.com/customers/s/article/Dump-and-Load-Data-in-Tenant-Manager) for additional information on dumping and loading data in Tenant Manager
+
+*Consultants should discuss which environment to work in with their Project Manager or Configuration Lead.*
+
+### Step 11: Clear the Demo Data
+
+When the customer is ready to load their own sample data into their environment, you must clear the demo data that has already been imported. 
+
+In the permitted environments, use the Truncate Script to delete the demo data while retaining all setup. 
+
+Visit the [WorkForce Knowledge Base](https://workforcesoftware.force.com/customers/s/article/Data-Clean-Up-via-Truncate-Script-for-Partners) for additional details on utilizing the Truncate Script.
