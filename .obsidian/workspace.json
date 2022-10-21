@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b9f9c0990e57e61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/US and Non-Quick Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Building.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/US and Non-Quick Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Building.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/US and Non-Quick Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,31 +162,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Building.md"
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/US and Non-Quick Setup.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "09609b7abd0c16ae",
+  "active": "6b9f9c0990e57e61",
   "lastOpenFiles": [
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Policy Profiles.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setting Up A US Market Instance.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Building.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Policy Profiles.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Template.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Extensions.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Extension.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Undefined Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Model.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Calculations.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base Template.md"
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Calculations.md"
   ]
 }
