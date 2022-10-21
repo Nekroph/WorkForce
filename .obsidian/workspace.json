@@ -47,12 +47,8 @@
             "id": "6b9f9c0990e57e61",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -73,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md",
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md"
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md"
               }
             }
           }
@@ -202,12 +198,12 @@
   },
   "active": "6d82397de0d86716",
   "lastOpenFiles": [
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Non-US Market Instance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market Instance.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup US Market Instance.md",
-    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Implementation.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Defined Market.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Implementation.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Schedule Management.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Base Product.md",
