@@ -31,3 +31,15 @@ The [[Global Base Dataset]] serves as the starting point for all configurations.
 Submit a ticket with the request in the [Partner Community](https://workforcesoftware.force.com/customers) to acquire access to the customer's environments.
 
 For more information on reloading the Global Base Dataset, visit the [WorkForce Knowledge Base](https://workforcesoftware.force.com/customers/s/article/How-to-Load-the-Latest-Global-Base-Dataset-in-Tenant-Manager ).
+
+### Step 4: Load the [[Global Base Template]]
+
+This step is only done once per customer. Load the following layer, the [[Global Base Template]], with the basic [[Global Base Dataset]] required to generate the *DEV instance. To finish this step, go to the **GLOBAL BASE Template Instructions** manual. 
+
+The [[Global Base Template]] provides the rules necessary for all models in the [[Standard Product]] and must be imported into every [[Standard Product]] implementation. 
+
+Consultants should discuss which environment to work in with their Project Manager or Configuration Lead.
+
+### Step 5: Load the US [[Market]]
+
+After you've loaded the [[Global Base]], you may put the US [[Market]] layer on top of it. While filling out the Client US Product Setup Questionnaire, use the STANDARD PRODUCT [[Template Instructions to choose the choices specified by the customer.
