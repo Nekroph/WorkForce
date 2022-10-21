@@ -1,0 +1,1 @@
+To bulk import new pay codes into WT&A, use the Import Pay Codes box in the [[Policy Editor]]. The import method automatically adds your pay codes to the Pay Code Map(s) of the Policy Profile Master(s) and Time Entry Group policies that you specify.

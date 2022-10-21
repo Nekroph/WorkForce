@@ -1,4 +1,4 @@
-These instructions will lead you through the process of creating a new configuration for a non-defined Market using the Ad-Hoc Product. Any examples offered here are for illustration purposes only, and the same methods can be applied to any specified Market. To recap, an [[Undefined Market]] differs from a [[Defined Market]] in that the buyer must first shop the models to choose the ones that best suit their company needs before beginning a construction. 
+These instructions will lead you through the process of creating a new configuration for a non-defined Market using the [[Ad-Hoc Product]]. Any examples offered here are for illustration purposes only, and the same methods can be applied to any specified Market. To recap, an [[Undefined Market]] differs from a [[Defined Market]] in that the buyer must first shop the models to choose the ones that best suit their company needs before beginning a construction. 
 
 This approach takes longer than [[Setup Non-US Market Instance|setting up a Non-US Market Instance]] but it delivers specialized [[Market]] capabilities rather than broad capability. 
 
@@ -25,13 +25,13 @@ Ensure you have the following documentation available and ready:
 5. **GEN_CONTAINER Template Instructions**
 6. **Model-Template Mapping**
 
-The [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Ad-Hoc Product]], unlike the [[Defined Market|Defined Markets]], does not have a standard questionnaire. Customers shop the models by making the selections specified in the Ad-Hoc Selection of [[Model|Models]] for WT&A document. It is critical that you have a complete list of shopped models for the consumer. 
+The [[Ad-Hoc Product]], unlike the [[Defined Market|Defined Markets]], does not have a standard questionnaire. Customers shop the models by making the selections specified in the Ad-Hoc Selection of [[Model|Models]] for WT&A document. It is critical that you have a complete list of shopped models for the consumer. 
 
 You must also use the Options sections of the MFDs that the client has chosen, which is a variable list for each implementation. Based on their model decisions, they would have to aggregate the alternatives to specify.
 
 ### Step 3: Review the Product Assembly Instructions
 
-Before beginning the setup, go over the [[Standard Product]] Assembly Instructions for [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Ad-Hoc Product]], which walks you through each step of adding a sequence of templates to an environment. These instructions are similar to Template Instructions in that they include context as well as technical specifics for each build step. 
+Before beginning the setup, go over the [[Standard Product]] Assembly Instructions for [[Ad-Hoc Product]], which walks you through each step of adding a sequence of templates to an environment. These instructions are similar to Template Instructions in that they include context as well as technical specifics for each build step. 
 
 The procedures in this course cover essential processes in the Product Assembly Instructions as well as delivery guidelines for a specific [[market]].
 
@@ -51,17 +51,17 @@ The [[Global Base Template]] provides the rules necessary for all models in the 
 
 *Consultants should discuss which environment to work in with their Project Manager or Configuration Lead.*
 
-### Step 6: Load the [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Generic Container]]
+### Step 6: Load the [[Generic Container]]
 
 After you've loaded the [[Global Base]], you may put the [[Generic Market]] layer on top of it. While selecting the choices specified by the client in the Ad-Hoc Selection of Models for WT&A document, follow the directions in the GEN CONTAINER Template Instructions. 
 
-The [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Generic Container]] template has additional functional regulations associated with the given attributes and may be used to any geographic location, country, market, and so on. To allow nation or market-specific functionality, additional country or market-specific [[Standard Product|Standard Products]] may be imported on top of the [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Generic Container]].
+The [[Generic Container]] template has additional functional regulations associated with the given attributes and may be used to any geographic location, country, market, and so on. To allow nation or market-specific functionality, additional country or market-specific [[Standard Product|Standard Products]] may be imported on top of the [[Generic Container]].
 
 A Time & Attendance environment can be made up of many [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Generic Container|Generic Containers]], each with its own set of features. As a result, one environment may support the usage of many nations, marketplaces, and so on.
 
 ### Step 7: Integrate Remaining Functionality
 
-The [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Generic Container]] does not have all of the functional rules required to set up a specified [[Market]]. To finish the functional regions, continue with the Steps to Integrate portion of the [[Standard Product]] Assembly Instructions for [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Ad-Hoc Product]]. 
+The [[Generic Container]] does not have all of the functional rules required to set up a specified [[Market]]. To finish the functional regions, continue with the Steps to Integrate portion of the [[Standard Product]] Assembly Instructions for [[Ad-Hoc Product]]. 
 
 These instructions link to particular templates to utilize and specify market-specific remarks. Review the Model-Template Comparison document to match the MFD with the template you are integrating into the selected [[Market]] for further functional details on the models represented by the [[template|templates]].
 

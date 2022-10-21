@@ -1,1 +1,7 @@
 Policies such as [[Pay Code]] policies, sometimes known as *auto-stitching*, it can be reused between [[Template|templates]]. If a [[Template|template]] import identifies an existing policy that is also in the [[Template|template]] to be imported, the existing policy will be used by the [[Template|template]]. The old policy will subsequently be transformed into a common policy. The WTA Templates Framework Guide includes particular considerations for shared policies.
+
+Policies between [[template|templates]]. can be shared. Certain policies, such as Pay Code policies, must be shared between [[template|templates]]. If the import identifies an existing policy in the configuration that is also in the [[template]] to be imported, and it makes sense to share that policy rather than creating a new policy with the prefix prepended, the [[template]] will utilize the existing policy. The old policy will subsequently be transformed into a common policy.
+
+### Migrating Shared Policies
+
+Keeping in mind the information on migrating closed [[template|templates]], shared policies in a locked [[template]] will also transfer. These common policies cannot be excluded from a migration. If you try to migrate a shared policy but not the full locked [[template]], the migration preview will display an error and identify the policies that cannot be moved.

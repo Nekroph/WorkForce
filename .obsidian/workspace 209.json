@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "bbfc36f756fac567",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ace97b6bf71c023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "895c5d1456fc1b47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c92384a218622510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Quick Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02bcaafb848fcc02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Base Product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abcc02273b29dd62",
+    "type": "split",
+    "children": [
+      {
+        "id": "81bee8eee821cf4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f69be94b784c445",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "889ac83b896ed328",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0694ec4f0c9fe98",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c868d08861e3c988",
+    "type": "split",
+    "children": [
+      {
+        "id": "097b70dcf4645df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76a1fcfcc1a79271",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Base Product.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5c6e1d3c53ddde3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Base Product.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c200751c37ca2767",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b36657a3dba83a48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Base Product.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "02bcaafb848fcc02",
+  "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Implementation.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Product.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Technical Specifications.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Template.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Undefined Market.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Untitled.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/US and Non-Quick Setup.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Defined Market.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Compliance.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Calculations.md"
+  ]
+}
