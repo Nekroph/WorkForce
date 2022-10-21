@@ -46,7 +46,7 @@ The [[Global Base Template]] provides the rules necessary for all models in the 
 
 After you've loaded the [[Global Base]], you may put the [[Standard Base Product]] Market layer on top of it. Follow the steps in the **STANDARD_PRODUCT Template Instructions** while picking the choices from the Customer **Standard Product Setup Questionnaire**. 
 
-Much of the functional policies associated with the described features are included in the [[Standard Product[[]] template. It is made up of three templates, each with its own import window. Only the first template, STANDARD_PRODUCT, must be explicitly imported; all subsequent templates will import automatically after the first.
+Much of the functional policies associated with the described features are included in the [[Standard Product]] template. It is made up of three templates, each with its own import window. Only the first template, STANDARD_PRODUCT, must be explicitly imported; all subsequent templates will import automatically after the first.
 
 ### Step 6: Add Demo Data
 
