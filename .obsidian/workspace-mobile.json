@@ -11,8 +11,12 @@
             "id": "0eeb6096d61643a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md"
+          }
         }
       }
     ],
@@ -116,8 +124,9 @@
   "ribbon": {
     "mostRecentAction": "Open graph view"
   },
-  "active": "2fb0521e79ffa991",
+  "active": "0eeb6096d61643a2",
   "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Generic Container.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setup Ad-Hoc Product for an Undefined Market.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Standard Base Product.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/In Out Time Entry.md",
