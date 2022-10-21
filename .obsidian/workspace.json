@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +140,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3bf4d2c89af463a0",
+  "active": "c7f5a705e4d31bc1",
   "lastOpenFiles": [
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Build Tool Types.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Generic Template.md",
@@ -152,6 +151,6 @@
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Worked Time Collection.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/US and Non-Quick Setup.md",
     "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base.md",
-    "Ad-Hoc Product.md"
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Ad-Hoc Product.md"
   ]
 }

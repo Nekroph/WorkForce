@@ -25,13 +25,13 @@ Ensure you have the following documentation available and ready:
 5. **GEN_CONTAINER Template Instructions**
 6. **Model-Template Mapping**
 
-The [[Ad-Hoc Product]], unlike the [[Defined Market|Defined Markets]], does not have a standard questionnaire. Customers shop the models by making the selections specified in the Ad-Hoc Selection of [[Model|Models]] for WT&A document. It is critical that you have a complete list of shopped models for the consumer. 
+The [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Ad-Hoc Product]], unlike the [[Defined Market|Defined Markets]], does not have a standard questionnaire. Customers shop the models by making the selections specified in the Ad-Hoc Selection of [[Model|Models]] for WT&A document. It is critical that you have a complete list of shopped models for the consumer. 
 
 You must also use the Options sections of the MFDs that the client has chosen, which is a variable list for each implementation. Based on their model decisions, they would have to aggregate the alternatives to specify.
 
 ### Step 3: Review the Product Assembly Instructions
 
-Before beginning the setup, go over the [[Standard Product]] Assembly Instructions for [[Ad-Hoc Product]], which walks you through each step of adding a sequence of templates to an environment. These instructions are similar to Template Instructions in that they include context as well as technical specifics for each build step. 
+Before beginning the setup, go over the [[Standard Product]] Assembly Instructions for [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Ad-Hoc Product]], which walks you through each step of adding a sequence of templates to an environment. These instructions are similar to Template Instructions in that they include context as well as technical specifics for each build step. 
 
 The procedures in this course cover essential processes in the Product Assembly Instructions as well as delivery guidelines for a specific [[market]].
 
@@ -61,7 +61,7 @@ A Time & Attendance environment can be made up of many [[Generic Container|Gener
 
 ### Step 7: Integrate Remaining Functionality
 
-The [[Generic Container]] does not have all of the functional rules required to set up a specified [[Market]]. To finish the functional regions, continue with the Steps to Integrate portion of the [[Standard Product]] Assembly Instructions for [[Ad-Hoc Product]]. 
+The [[Generic Container]] does not have all of the functional rules required to set up a specified [[Market]]. To finish the functional regions, continue with the Steps to Integrate portion of the [[Standard Product]] Assembly Instructions for [[WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Ad-Hoc Product]]. 
 
 These instructions link to particular templates to utilize and specify market-specific remarks. Review the Model-Template Comparison document to match the MFD with the template you are integrating into the selected [[Market]] for further functional details on the models represented by the [[template|templates]].
 
