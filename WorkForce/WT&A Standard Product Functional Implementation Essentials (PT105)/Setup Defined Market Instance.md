@@ -49,9 +49,9 @@ For more information on reloading the Global Base Dataset, visit the [WorkForce 
 
 You're ready to start configuring now that you're comfortable with the general procedure. Load the following layer, the [[Global Base Template]], with the basic [[Global Base dataset]] required to generate the *DEV instance. To finish this step, go to the GLOBAL BASE Template Instructions manual. 
 
-The [[Global Base Template]] provides the rules necessary for all models in the [[Standard Product]] and must be imported into every Standard Product implementation. 
+The [[Global Base Template]] provides the rules necessary for all models in the [[Standard Product]] and must be imported into every [[Standard Product]] implementation. 
 
-Consultants should discuss which environment to work in with their Project Manager or Configuration Lead.
+*Consultants should discuss which environment to work in with their Project Manager or Configuration Lead.*
 
 ### Step 6: Load the [[Generic Container]]
 
@@ -60,3 +60,9 @@ After you've loaded the [[Global Base]], you may put the Generic [[Market]] laye
 The [[Generic Container]] template has additional functional regulations associated with the given attributes and may be used to any geographic location, country, market, and so on. To allow nation or market-specific functionality, additional country or market-specific [[Standard Product|Standard Products]] may be imported on top of the [[Generic Container]]. 
 
 A Time & Attendance environment can be made up of many [[Generic Container|Generic Containers]], each with its own set of features. As a result, one environment may support the usage of many nations, marketplaces, and so on.
+
+### Step 7: Integrate Remaining Functionality
+
+The [[Generic Container]] does not have all of the functional rules required to set up a specified [[Market]]. To finish the functional sections, continue following the Steps to Integrate portion of the MARKET - **Product Assembly Instructions**. 
+
+These instructions link to particular templates to utilize and specify market-specific remarks. Review the **Model-Template Comparison** document to match the MFD with the template you are integrating into the selected Market for further functional details on the models represented by the templates.
