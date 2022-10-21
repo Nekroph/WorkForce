@@ -1,4 +1,4 @@
-
+A Defined Market has been pre-shopped for particular models to meet the needs of that [[Market]]. 
 
 Uses a combination of [[Market-Specific Template|Market-Specific]] and [[Generic Template|Generic Templates]].
 
