@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "bbfc36f756fac567",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ace97b6bf71c023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0453ade27047d1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Setups/Setup Ad-Hoc Product for an Undefined Market.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdc6a22b4a0eb179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Entries/Elapsed Hours Entry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1469c7256e9ef3cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Instructions & Guides/Model Functional Description.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abcc02273b29dd62",
+    "type": "split",
+    "children": [
+      {
+        "id": "81bee8eee821cf4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f69be94b784c445",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "889ac83b896ed328",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "demo guide",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0694ec4f0c9fe98",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c868d08861e3c988",
+    "type": "split",
+    "children": [
+      {
+        "id": "097b70dcf4645df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76a1fcfcc1a79271",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Instructions & Guides/Model Functional Description.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5c6e1d3c53ddde3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Instructions & Guides/Model Functional Description.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c200751c37ca2767",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b36657a3dba83a48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Instructions & Guides/Model Functional Description.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1469c7256e9ef3cc",
+  "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/MFD Only.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Calculations.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Pay Code.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Functional Areas.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Models & Extensions/Model.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Generic Container.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Untitled.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Entries/Elapsed Hours Entry.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/End of Period.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Products/Ad-Hoc Product.md"
+  ]
+}
