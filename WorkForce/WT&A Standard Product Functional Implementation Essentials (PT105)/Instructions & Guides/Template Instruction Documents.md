@@ -1,1 +1,1 @@
-Also known as "Technical Spec", there is one document per template providing instructions on how to integrate a template, once matched to a model.  Each of these documents is accessed when implementing the selected template.
+Also known as "Technical Spec", there is one document per [[template]] providing instructions on how to integrate a [[template]], once matched to a [[model]]. Each of these documents is accessed when implementing the selected [[template]].
