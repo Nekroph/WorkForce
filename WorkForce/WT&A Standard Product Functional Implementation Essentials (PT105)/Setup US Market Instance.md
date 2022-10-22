@@ -44,7 +44,7 @@ The [[Global Base Template]] provides the rules necessary for all models in the 
 
 After you've loaded the [[Global Base]], you may put the US [[Market]] layer on top of it. While filling out the **Client US Product Setup Questionnaire**, use the **STANDARD_PRODUCT Template Instructions** to choose the choices specified by the customer.
 
-After the [[Standard Product]] Template has been imported, Follow the **US_WAGE_HOUR_AND_HOL template Instructions** to implement US wage rules.
+After the [[Standard Product]] Template has been imported, Follow the **US_WAGE_HOUR_AND_HOL Template Instructions** to implement US wage rules.
 
 The [[Standard Product]] template contains much of the functional policies involved with the defined features. The US Wage, Hour and Holiday [[template]] will include a series of templates making up the US Product. Each template is presented in series. You can navigate among them through the drop-down on the upper-right. On the panel for the last template in the series, clicking the button “Import” causes all the templates to be imported using the parameter selections that have been made.
 
