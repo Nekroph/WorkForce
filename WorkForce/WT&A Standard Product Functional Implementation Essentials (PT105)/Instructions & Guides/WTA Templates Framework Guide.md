@@ -1,1 +1,1 @@
-As a technical resource, this guide will provide detailed information on understanding templates, importing and managing templates.  You will also find information on locked templates, pay code imports an additional template resources.
+As a technical resource, this guide will provide detailed information on understanding importing and managing [[template|templates]].  You will also find information on locked [[template|templates]], [[pay code]] imports an additional template resources.
