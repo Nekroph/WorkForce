@@ -33,7 +33,7 @@ You must also use the Options sections of the MFDs that the client has chosen, w
 
 Before beginning the setup, go over the [[Standard Product]] Assembly Instructions for [[Ad-Hoc Product]], which walks you through each step of adding a sequence of templates to an environment. These instructions are similar to Template Instructions in that they include context as well as technical specifics for each build step. 
 
-The procedures in this course cover essential processes in the Product Assembly Instructions as well as delivery guidelines for a specific [[market]].
+The procedures in this course cover essential processes in the Product Assembly Instructions as well as delivery guidelines for a specific [[Market]].
 
 ### Step 4: Reload the [[Global Base Dataset]]
 
@@ -63,7 +63,7 @@ A Time & Attendance environment can be made up of many [[WorkForce/WT&A Standard
 
 The [[Generic Container]] does not have all of the functional rules required to set up a specified [[Market]]. To finish the functional regions, continue with the Steps to Integrate portion of the [[Standard Product]] Assembly Instructions for [[Ad-Hoc Product]]. 
 
-These instructions link to particular templates to utilize and specify market-specific remarks. Review the Model-Template Comparison document to match the MFD with the template you are integrating into the selected [[Market]] for further functional details on the models represented by the [[template|templates]].
+These instructions link to particular templates to utilize and specify market-specific remarks. Review the Model-Template Comparison document to match the MFD with the template you are integrating into the selected [[Market]] for further functional details on the models represented by the [[Template|templates]].
 
 ### Step 8: Handling Demo Data
 

@@ -1,3 +1,0 @@
-Does not have a standard questionnaire. Customers shop the models by making the selections specified in the Ad-Hoc Selection of [[Model|Models]] for WT&A document. It is critical that you have a complete list of shopped models for the consumer. 
-
-Used by [[Undefined Market|Undefined Markets]] for customers to shop the [[model|models]] from a pre-set list **(Standard Product Ad Hoc Selection of Models**). These are then layered on top of the [[Generic Container]] template following the **Standard Product Assembly Instructions for Ad-Hoc Product**.

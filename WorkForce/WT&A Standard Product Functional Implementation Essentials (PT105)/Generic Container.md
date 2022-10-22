@@ -1,1 +1,1 @@
-The Generic Container is necessary for all markets other than the United States and Non-US Quick Setup. This should be loaded for each [[market]] that requires it.
+The Generic Container is necessary for all markets other than the United States and Non-US Quick Setup. This should be loaded for each [[Market]] that requires it.

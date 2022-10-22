@@ -32,7 +32,7 @@ The [[Standard Product]] cannot be created without the questionnaire.
 
 ### Step 3: Review the Product Assembly Instructions
 
-Before you begin configuring, go through the *MARKET* **Product Assembly Instructions**, which walk you through the build process of the [[defined market]]. These instructions are similar to Template Instructions in that they include context as well as technical specifics for each build step. 
+Before you begin configuring, go through the *MARKET* **Product Assembly Instructions**, which walk you through the build process of the [[Defined Market]]. These instructions are similar to Template Instructions in that they include context as well as technical specifics for each build step. 
 
 The procedures in this course cover essential processes in the Product Assembly Instructions as well as delivery guidelines for a specific market.
 
@@ -64,11 +64,11 @@ A Time & Attendance environment can be made up of many [[WorkForce/WT&A Standard
 
 The [Generic Container]] does not have all of the functional rules required to set up a specified [[Market]]. To finish the functional sections, continue following the Steps to Integrate portion of the MARKET - **Product Assembly Instructions**. 
 
-These instructions link to particular [[template|templates]] to utilize and specify market-specific remarks. Review the **Model-Template Comparison** document to match the MFD with the template you are integrating into the selected [[Market]] for further functional details on the models represented by the [[template|templates]].
+These instructions link to particular [[Template|templates]] to utilize and specify market-specific remarks. Review the **Model-Template Comparison** document to match the MFD with the template you are integrating into the selected [[Market]] for further functional details on the models represented by the [[Template|templates]].
 
 ### Step 8: Handling Demo Data
 
-The demo data in the **WT&A US Base Product Creating Environment with Data** paper is not tailored to other [[market|markets]]. It may be used to generate demo data as a starting point, or the customer can contribute their own sample data.
+The demo data in the **WT&A US Base Product Creating Environment with Data** paper is not tailored to other [[Market|markets]]. It may be used to generate demo data as a starting point, or the customer can contribute their own sample data.
 
 ### Step 9: Validate the Setup
 

@@ -46,7 +46,7 @@ After you've loaded the [[Global Base]], you may put the US [[Market]] layer on 
 
 After the [[Standard Product]] Template has been imported, Follow the **US_WAGE_HOUR_AND_HOL Template Instructions** to implement US wage rules.
 
-The [[Standard Product]] template contains much of the functional policies involved with the defined features. The US Wage, Hour and Holiday [[template]] will include a series of templates making up the US Product. Each template is presented in series. You can navigate among them through the drop-down on the upper-right. On the panel for the last template in the series, clicking the button “Import” causes all the templates to be imported using the parameter selections that have been made.
+The [[Standard Product]] template contains much of the functional policies involved with the defined features. The US Wage, Hour and Holiday [[Template]] will include a series of templates making up the US Product. Each template is presented in series. You can navigate among them through the drop-down on the upper-right. On the panel for the last template in the series, clicking the button “Import” causes all the templates to be imported using the parameter selections that have been made.
 
 ### Step 6: Add Demo Data
 

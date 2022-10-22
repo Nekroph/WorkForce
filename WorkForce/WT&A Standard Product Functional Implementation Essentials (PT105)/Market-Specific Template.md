@@ -1,1 +1,0 @@
-Built to complete functionality for an individual [[market]].

@@ -1,3 +1,3 @@
 Both the US [[Standard Product]] Template and the [[Standard Base Product]] Template are multi-step and tightly integrated. Only one layer is added once the foundation is constructed using the [[Global Base Dataset]] and [[Global Base Template]] layers.
 
-These two [[template|templates]] may be loaded many times to create various [[Market|Markets]]. A client, for example, may have two or more business units inside the same organization.
+These two [[Template|templates]] may be loaded many times to create various [[Market|Markets]]. A client, for example, may have two or more business units inside the same organization.

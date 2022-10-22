@@ -1,4 +1,4 @@
-This procedure is identical to the guidelines for the [[Setup US Market Instance|US Market]] instructions, except you will not need the US Wage, Hour, and Holiday [[template]]. You may also use this procedure to create a simple US Market]] without the rules. 
+This procedure is identical to the guidelines for the [[Setup US Market Instance|US Market]] instructions, except you will not need the US Wage, Hour, and Holiday [[Template]]. You may also use this procedure to create a simple US Market]] without the rules. 
 
 The Document Directory contains links to all of the documentation mentioned.
 
