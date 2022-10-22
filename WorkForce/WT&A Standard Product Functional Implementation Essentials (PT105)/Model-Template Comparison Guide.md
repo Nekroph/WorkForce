@@ -1,0 +1,1 @@
+Maps models to the templates that implement the corresponding functionality.  To find the template(s) that implement functionality chosen through models.  Particularly used because of the ad hoc selection of models to assemble a Standard Product instance.

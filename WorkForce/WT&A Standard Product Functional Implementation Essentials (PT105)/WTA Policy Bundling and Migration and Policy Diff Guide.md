@@ -1,0 +1,1 @@
+In this guide, you'll learn what bundling and policy migration are and how to use them.  It also covers how to run the Policy Diff Report to find what will change between environments when delivering policies.

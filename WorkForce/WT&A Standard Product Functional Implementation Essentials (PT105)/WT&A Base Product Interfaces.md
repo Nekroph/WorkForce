@@ -1,0 +1,1 @@
+Describes technical specifics for technical resources to set up and use the Standard Product interfaces. This document is primarily used by Interface Specialists during the build process.
