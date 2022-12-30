@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "14f3ffa04c7b37fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bcd958597eb6510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab2c4cee77dd5e39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Entries/Elapsed Hours Entry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1511200bc5857560",
+    "type": "split",
+    "children": [
+      {
+        "id": "f99ed16530a9d8e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e8a57109f26b3fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f67c721b34cbadc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "employee",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cea4793b89e94dca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd52bac506fb6054",
+    "type": "split",
+    "children": [
+      {
+        "id": "740ac91a0161b869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37bff7d4e00858cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Entries/Elapsed Hours Entry.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c7e5900810e8db3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Entries/Elapsed Hours Entry.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffa52f4a582aee2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7e6cb9a1e699d04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Entries/Elapsed Hours Entry.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ab2c4cee77dd5e39",
+  "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Global Base.md"
+  ]
+}

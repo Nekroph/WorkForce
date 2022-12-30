@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "6a0efe3de63384d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bacd1651236ad030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1024ae5cd707cf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Products/Standard Product.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "091047686c9c663a",
+    "type": "split",
+    "children": [
+      {
+        "id": "874575240a25f48a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341c4fb3525dcd09",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cd9fc0c9fbf819e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58a632157d3857c7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6689081f53846170",
+    "type": "split",
+    "children": [
+      {
+        "id": "df2a7b3a96d32d2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e7bf44f24027d82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Products/Standard Product.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ff040145e893b98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Products/Standard Product.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9803b3ab91e55112",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "43bdd430c45b7f2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Products/Standard Product.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d1024ae5cd707cf8",
+  "lastOpenFiles": [
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Products/Standard Base Product.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Templates/Activity Tracking Template.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Models & Extensions/Extension.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Managements/Absence Management.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Functional Areas.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Build Tool Types.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Models & Extensions/Model.md",
+    "WorkForce/WT&A Standard Product Functional Implementation Essentials (PT105)/Products/Standard Product.md"
+  ]
+}
